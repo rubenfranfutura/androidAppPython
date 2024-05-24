@@ -127,6 +127,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+entorno-android/
 
 # Spyder project settings
 .spyderproject
